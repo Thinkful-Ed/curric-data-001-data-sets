@@ -1,0 +1,496 @@
+Identification_Information:  
+	Citation:  
+		Citation_Information:  
+			Originator:  Center for International Earth Science Information Network - CIESIN - Columbia University
+			Publication_Date:  2013
+			Title:  Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 2
+			Edition:  2.00
+			Geospatial_Data_Presentation_Form:  tabular, map, map service
+			Publication_Information:  
+				Publication_Place:  Palisades, NY
+				Publisher:  NASA Socioeconomic Data and Applications Center (SEDAC)
+			Online_Linkage:  http://dx.doi.org/10.7927/H4MW2F2J
+	Description:  
+		Abstract:  The Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 2 data set consists of country-level estimates of urban population, rural population, total population and land area country-wide and in LECZs for years 1990, 2000, 2010, and 2100. The LECZs were derived from Shuttle Radar Topography Mission (SRTM), 3 arc second (~90m) data which were post processed by ISciences LLC to include only elevations less than 20m contiguous to coastlines; and to supplement SRTM data in northern and southern latitudes. The population and land area statistics presented herein are summarized at the low coastal elevations of less than or equal to 1m, 3m, 5m, 7m, 9m, 10m, 12m, and 20m. Additionally, estimates are provided for elevations > 20m, and nationally. The spatial coverage of this data set includes 202 of the 232 countries and statistical areas delineated in the Gridded Rural-Urban Mapping Project version 1 (GRUMPv1) dataset. The 30 omitted areas were not included because they were landlocked, or otherwise lacked coastal features. This data set makes use of the population inputs of GRUMPv1 allocated at 3 arc seconds to match the SRTM elevations, and at 30 arc seconds resolution in order to reflect uncertainty levels in the product resulting from the interplay of input population data resolutions (based on census units) and the elevation data.. Urban and rural areas are differentiated by the GRUMPv1 Urban Extents. See data set documentation for specifics on the methodologies used. This data set is produced by the Columbia University Center for International Earth Science Information Network (CIESIN).
+		Purpose:  To provide estimates of urban and rural populations and land areas for the years 1990, 2000, and 2010; and projections to the year 2100 for 202 countries with contiguous coastal elevations in the following categories:  less than or equal to 1m, 3m, 5m, 7m, 9m, 10m, 12m, or 20m; as well as national totals.
+	Time_Period_of_Content:  
+		Time_Period_Information:  
+			Multiple_Dates/Times:  
+				Single_Date/Time:  
+					Calendar_Date:  2000
+				Single_Date/Time:  
+					Calendar_Date:  1990
+				Single_Date/Time:  
+					Calendar_Date:  2010
+				Single_Date/Time:  
+					Calendar_Date:  2100
+	Status:  
+		Progress:  Complete
+		Maintenance_and_Update_Frequency:  As needed
+	Spatial_Domain:  
+		Bounding_Coordinates:  
+			West_Bounding_Coordinate:  -180.000000
+			East_Bounding_Coordinate:  180.000000
+			North_Bounding_Coordinate:  85.000000
+			South_Bounding_Coordinate:  -58.000000
+	Keywords:  
+		Theme:  
+			Theme_Keyword_Thesaurus:  Data Granularity
+			Theme_Keyword:  Country
+			Theme_Keyword:  Global
+		Theme:  
+			Theme_Keyword_Thesaurus:  SEDAC Theme
+			Theme_Keyword:  Climate
+			Theme_Keyword:  Marine and  Coastal
+			Theme_Keyword:  Population
+			Theme_Keyword:  Sustainability
+		Theme:  
+			Theme_Keyword_Thesaurus:  CIESIN Indexing Vocabulary Version 2.1 (GCMD Format)
+			Theme_Keyword:  CIESIN > Population Dynamics > Human Settlements > Rural Areas
+			Theme_Keyword:  CIESIN > Population Dynamics > Human Settlements > Urbanization
+			Theme_Keyword:  CIESIN > Environmental Protection > Water Forms > Coastal Zones
+			Theme_Keyword:  CIESIN > Population Dynamics > Demographic Characteristics > Population Distribution
+			Theme_Keyword:  CIESIN > Population Dynamics > Demographic Characteristics > Population Size
+		Theme:  
+			Theme_Keyword_Thesaurus:  General
+			Theme_Keyword:  Cities
+			Theme_Keyword:  Global Population
+			Theme_Keyword:  Gridded Population of the World
+			Theme_Keyword:  GRUMP
+			Theme_Keyword:  Population Density
+			Theme_Keyword:  Population Estimates
+			Theme_Keyword:  Population Projections
+			Theme_Keyword:  Population Studies
+			Theme_Keyword:  Urban Areas
+			Theme_Keyword:  Land Area Estimates
+		Theme:  
+			Theme_Keyword_Thesaurus:  ISO Topic
+			Theme_Keyword:  Planning/Cadastre
+			Theme_Keyword:  Society
+		Theme:  
+			Theme_Keyword_Thesaurus:  GCMD Science Keywords, Version 8.1
+			Theme_Keyword:  EARTH SCIENCE > Human Dimensions > Human Settlements > Coastal Areas
+			Theme_Keyword:  EARTH SCIENCE > Human Dimensions > Population > Population Density
+			Theme_Keyword:  EARTH SCIENCE > Human Dimensions > Population > Population Distribution
+			Theme_Keyword:  EARTH SCIENCE > Human Dimensions > Population > Population Estimates
+			Theme_Keyword:  EARTH SCIENCE > Human Dimensions > Population > Population Size
+			Theme_Keyword:  EARTH SCIENCE > Human Dimensions > Sustainability > Environmental Sustainability
+			Theme_Keyword:  EARTH SCIENCE > Oceans > Coastal Processes > Coastal Elevation
+		Place:  
+			Place_Keyword_Thesaurus:  CIESIN Location Terms, version 3.0
+			Place_Keyword:  Africa
+			Place_Keyword:  Asia
+			Place_Keyword:  Australia
+			Place_Keyword:  Europe
+			Place_Keyword:  Global
+			Place_Keyword:  North America
+			Place_Keyword:  South America
+			Place_Keyword:  Caribbean
+			Place_Keyword:  Central Africa
+			Place_Keyword:  Central America
+			Place_Keyword:  East Asia
+			Place_Keyword:  Equatorial
+			Place_Keyword:  Middle East
+			Place_Keyword:  Mid-Latitude
+			Place_Keyword:  North Africa
+			Place_Keyword:  Oceania
+			Place_Keyword:  Pacific Islands
+			Place_Keyword:  Polar
+			Place_Keyword:  South Asia
+			Place_Keyword:  South Pacific Islands
+			Place_Keyword:  Southeast Asia
+			Place_Keyword:  West Africa
+			Place_Keyword:  Albania
+			Place_Keyword:  Algeria
+			Place_Keyword:  American Samoa
+			Place_Keyword:  Angola
+			Place_Keyword:  Anguilla
+			Place_Keyword:  Antigua and Barbuda
+			Place_Keyword:  Argentina
+			Place_Keyword:  Aruba
+			Place_Keyword:  Australia
+			Place_Keyword:  Bahamas
+			Place_Keyword:  Bahrain
+			Place_Keyword:  Bangladesh
+			Place_Keyword:  Barbados
+			Place_Keyword:  Belarus
+			Place_Keyword:  Belgium
+			Place_Keyword:  Belize
+			Place_Keyword:  Benin
+			Place_Keyword:  Bermuda
+			Place_Keyword:  Bosnia and Herzegovina
+			Place_Keyword:  Brazil
+			Place_Keyword:  British Virgin Islands
+			Place_Keyword:  Brunei
+			Place_Keyword:  Bulgaria
+			Place_Keyword:  Cambodia
+			Place_Keyword:  Cameroon
+			Place_Keyword:  Canada
+			Place_Keyword:  Cape Verde
+			Place_Keyword:  Cayman Islands
+			Place_Keyword:  Chile
+			Place_Keyword:  China
+			Place_Keyword:  Colombia
+			Place_Keyword:  Comoros
+			Place_Keyword:  Albania
+			Place_Keyword:  Algeria
+			Place_Keyword:  American Samoa
+			Place_Keyword:  Angola
+			Place_Keyword:  Anguilla
+			Place_Keyword:  Antigua and Barbuda
+			Place_Keyword:  Argentina
+			Place_Keyword:  Aruba
+			Place_Keyword:  Australia
+			Place_Keyword:  Bahamas
+			Place_Keyword:  Bahrain
+			Place_Keyword:  Bangladesh
+			Place_Keyword:  Barbados
+			Place_Keyword:  Belarus
+			Place_Keyword:  Belgium
+			Place_Keyword:  Belize
+			Place_Keyword:  Benin
+			Place_Keyword:  Bermuda
+			Place_Keyword:  Bosnia and Herzegovina
+			Place_Keyword:  Brazil
+			Place_Keyword:  British Virgin Islands
+			Place_Keyword:  Brunei
+			Place_Keyword:  Bulgaria
+			Place_Keyword:  Cambodia
+			Place_Keyword:  Cameroon
+			Place_Keyword:  Canada
+			Place_Keyword:  Cape Verde
+			Place_Keyword:  Cayman Islands
+			Place_Keyword:  Chile
+			Place_Keyword:  China
+			Place_Keyword:  Colombia
+			Place_Keyword:  Comoros
+			Place_Keyword:  Cook Islands
+			Place_Keyword:  Costa Rica
+			Place_Keyword:  Cote D'Ivoire
+			Place_Keyword:  Croatia
+			Place_Keyword:  Cuba
+			Place_Keyword:  Cyprus
+			Place_Keyword:  Democratic Republic of the Congo
+			Place_Keyword:  Denmark
+			Place_Keyword:  Djibouti
+			Place_Keyword:  Dominica
+			Place_Keyword:  Dominican Republic
+			Place_Keyword:  Ecuador
+			Place_Keyword:  Egypt
+			Place_Keyword:  El Salvador
+			Place_Keyword:  Equatorial Guinea
+			Place_Keyword:  Eritrea
+			Place_Keyword:  Estonia
+			Place_Keyword:  Ethiopia
+			Place_Keyword:  Faeroe Islands
+			Place_Keyword:  Falkland Islands
+			Place_Keyword:  Fiji
+			Place_Keyword:  Finland
+			Place_Keyword:  France
+			Place_Keyword:  French Guiana
+			Place_Keyword:  French Polynesia
+			Place_Keyword:  Gabon
+			Place_Keyword:  Gambia
+			Place_Keyword:  Georgia
+			Place_Keyword:  Germany
+			Place_Keyword:  Ghana
+			Place_Keyword:  Gibraltar
+			Place_Keyword:  Greece
+			Place_Keyword:  Greenland
+			Place_Keyword:  Grenada
+			Place_Keyword:  Guadeloupe
+			Place_Keyword:  Guam
+			Place_Keyword:  Guatemala
+			Place_Keyword:  Guinea
+			Place_Keyword:  Guinea-Bissau
+			Place_Keyword:  Guyana
+			Place_Keyword:  Haiti
+			Place_Keyword:  Honduras
+			Place_Keyword:  Hong Kong
+			Place_Keyword:  Iceland
+			Place_Keyword:  India
+			Place_Keyword:  Indonesia
+			Place_Keyword:  Iran
+			Place_Keyword:  Iraq
+			Place_Keyword:  Ireland
+			Place_Keyword:  Isle of Man
+			Place_Keyword:  Israel
+			Place_Keyword:  Italy
+			Place_Keyword:  Jamaica
+			Place_Keyword:  Japan
+			Place_Keyword:  Jersey
+			Place_Keyword:  Jordan
+			Place_Keyword:  Kenya
+			Place_Keyword:  Kiribati
+			Place_Keyword:  Kuwait
+			Place_Keyword:  Laos
+			Place_Keyword:  Latvia
+			Place_Keyword:  Lebanon
+			Place_Keyword:  Liberia
+			Place_Keyword:  Libya
+			Place_Keyword:  Lithuania
+			Place_Keyword:  Luxembourg
+			Place_Keyword:  Macau
+			Place_Keyword:  Macedonia
+			Place_Keyword:  Madagascar
+			Place_Keyword:  Malawi
+			Place_Keyword:  Malaysia
+			Place_Keyword:  Maldives
+			Place_Keyword:  Mali
+			Place_Keyword:  Malta
+			Place_Keyword:  Marshall Islands
+			Place_Keyword:  Martinique
+			Place_Keyword:  Mauritania
+			Place_Keyword:  Mauritius
+			Place_Keyword:  Mayotte
+			Place_Keyword:  Mexico
+			Place_Keyword:  Micronesia
+			Place_Keyword:  Moldova
+			Place_Keyword:  Monaco
+			Place_Keyword:  Montserrat
+			Place_Keyword:  Morocco
+			Place_Keyword:  Mozambique
+			Place_Keyword:  Myanmar
+			Place_Keyword:  Namibia
+			Place_Keyword:  Nauru
+			Place_Keyword:  Netherlands
+			Place_Keyword:  Netherlands  Antilles
+			Place_Keyword:  New Caledonia
+			Place_Keyword:  New Zealand
+			Place_Keyword:  Nicaragua
+			Place_Keyword:  Nigeria
+			Place_Keyword:  Niue
+			Place_Keyword:  Norfolk Island
+			Place_Keyword:  North Korea
+			Place_Keyword:  Northern Mariana Islands
+			Place_Keyword:  Norway
+			Place_Keyword:  Oman
+			Place_Keyword:  Pakistan
+			Place_Keyword:  Palau
+			Place_Keyword:  Palestine
+			Place_Keyword:  Panama
+			Place_Keyword:  Papua New Guinea
+			Place_Keyword:  Peru
+			Place_Keyword:  Philippines
+			Place_Keyword:  Pitcairn Islands
+			Place_Keyword:  Poland
+			Place_Keyword:  Portugal
+			Place_Keyword:  Puerto Rico
+			Place_Keyword:  Qatar
+			Place_Keyword:  Republic of the Congo
+			Place_Keyword:  Reunion
+			Place_Keyword:  Romania
+			Place_Keyword:  Russia
+			Place_Keyword:  Rwanda
+			Place_Keyword:  Saint Helena
+			Place_Keyword:  Saint Kitts and Nevis
+			Place_Keyword:  Saint Pierre and Miquelon
+			Place_Keyword:  Saint Vincent and The Grenadines
+			Place_Keyword:  Samoa
+			Place_Keyword:  Sao Tome and Principe
+			Place_Keyword:  Saudi Arabia
+			Place_Keyword:  Senegal
+			Place_Keyword:  Serbia and Montenegro
+			Place_Keyword:  Seychelles
+			Place_Keyword:  Sierra Leone
+			Place_Keyword:  Singapore
+			Place_Keyword:  Slovenia
+			Place_Keyword:  Solomon Islands
+			Place_Keyword:  Somalia
+			Place_Keyword:  South Africa
+			Place_Keyword:  South Korea
+			Place_Keyword:  Spain
+			Place_Keyword:  Sri Lanka
+			Place_Keyword:  Sudan
+			Place_Keyword:  Suriname
+			Place_Keyword:  Svalbard
+			Place_Keyword:  Swaziland
+			Place_Keyword:  Sweden
+			Place_Keyword:  Switzerland
+			Place_Keyword:  Syria
+			Place_Keyword:  Tanzania
+			Place_Keyword:  Samoa
+			Place_Keyword:  Sao Tome and Principe
+			Place_Keyword:  Saudi Arabia
+			Place_Keyword:  Senegal
+			Place_Keyword:  Serbia and Montenegro
+			Place_Keyword:  Seychelles
+			Place_Keyword:  Sierra Leone
+			Place_Keyword:  Singapore
+			Place_Keyword:  Slovenia
+			Place_Keyword:  Solomon Islands
+			Place_Keyword:  Somalia
+			Place_Keyword:  South Africa
+			Place_Keyword:  South Korea
+			Place_Keyword:  Spain
+			Place_Keyword:  Sri Lanka
+			Place_Keyword:  Sudan
+			Place_Keyword:  Suriname
+			Place_Keyword:  Svalbard
+			Place_Keyword:  Swaziland
+			Place_Keyword:  Sweden
+			Place_Keyword:  Switzerland
+			Place_Keyword:  Syria
+			Place_Keyword:  Tanzania
+			Place_Keyword:  Thailand
+			Place_Keyword:  Timor-Leste
+			Place_Keyword:  Togo
+			Place_Keyword:  Tokelau
+			Place_Keyword:  Tonga
+			Place_Keyword:  Trinidad and Tobago
+			Place_Keyword:  Tunisia
+			Place_Keyword:  Turkey
+			Place_Keyword:  Turks and Caicos Islands
+			Place_Keyword:  Tuvalu
+			Place_Keyword:  Ukraine
+			Place_Keyword:  United Arab Emirates
+			Place_Keyword:  United Kingdom
+			Place_Keyword:  United States
+			Place_Keyword:  Uruguay
+			Place_Keyword:  US Virgin Islands
+			Place_Keyword:  Uzbekistan
+			Place_Keyword:  Vanuatu
+			Place_Keyword:  Venezuela
+			Place_Keyword:  Vietnam
+			Place_Keyword:  Wallis and Futuna Islands
+			Place_Keyword:  Yemen
+	Access_Constraints:  None
+	Use_Constraints:  Users are free to use, copy, distribute, transmit, and adapt the work for commercial and non-commercial purposes, without restriction, as long as clear attribution of the source is provided.
+	Point_of_Contact:  
+		Contact_Information:  
+			Contact_Organization_Primary:  
+				Contact_Organization:  NASA Socioeconomic Data and Applications Center (SEDAC)
+			Contact_Address:  
+				Address_Type:  mailing and physical address
+				Address:  CIESIN, Columbia University, 61 Route 9W, P.O. Box 1000
+				City:  Palisades
+				State_or_Province:  NY
+				Postal_Code:  10964
+				Country:  USA
+			Contact_Voice_Telephone:  +1 845-365-8920
+			Contact_Facsimile_Telephone:  +1 845-365-8922
+			Contact_Electronic_Mail_Address:  ciesin.info@ciesin.columbia.edu
+	Cross_Reference:  
+		Citation_Information:  
+			Originator:  McGranahan, G., D. Balk, and B. Anderson
+			Publication_Date:  2007
+			Title:  Low Elevation Coastal Zone (LECZ) Urban-Rural Population Estimates, Global Rural-Urban Mapping Project (GRUMP), Alpha Version
+			Edition:  1.00
+			Geospatial_Data_Presentation_Form:  tabular, map
+			Publication_Information:  
+				Publication_Place:  Palisades, NY
+				Publisher:  NASA Socioeconomic Data and Applications Center (SEDAC)
+			Online_Linkage:  http://dx.doi.org/10.7927/H4TM782G
+			Larger_Work_Citation:  
+				Citation_Information:  
+					Originator:  McGranahan, G., D. Balk and  B. Anderson
+					Publication_Date:  2007
+					Title:  The Rising Tide: Assessing the Risks of Climate Change and Human Settlements in  Low Elevation Coastal Zones
+					Geospatial_Data_Presentation_Form:  journal article
+					Series_Information:  
+						Series_Name:  Environment & Urbanization
+						Issue_Identification:  19 (1): 17-37
+					Online_Linkage:  http://dx.doi.org/10.1177/0956247807076960
+	Cross_Reference:  
+		Citation_Information:  
+			Originator:  Center for International Earth Science Information Network - CIESIN - Columbia University
+			Publication_Date:  2013
+			Title:  Sea Level Rise Impacts on Ramsar Wetlands of International Importance
+			Edition:  1.00
+			Geospatial_Data_Presentation_Form:  tabular, map service
+			Publication_Information:  
+				Publication_Place:  Palisades, NY
+				Publisher:  NASA Socioeconomic Data and Applications Center (SEDAC)
+			Online_Linkage:  http://dx.doi.org/10.7927/H4CC0XMD
+Spatial_Reference_Information:  
+	Horizontal_Coordinate_System_Definition:  
+		Geographic:  
+			Latitude_Resolution:  0.000830
+			Longitude_Resolution:  0.000830
+			Geographic_Coordinate_Units:  Decimal degrees
+		Geodetic_Model:  
+			Horizontal_Datum_Name:  WGS84
+			Ellipsoid_Name:  WGS84
+			Semi-major_Axis:  6378137.000000
+			Denominator_of_Flattening_Ratio:  298.257224
+Entity_and_Attribute_Information:  
+	Detailed_Description:  
+		Entity_Type:  
+			Entity_Type_Label:  lecz-urban-rural-population-land-area-estimates-v2
+			Entity_Type_Definition:  Low Elevation Coastal Zone (LECZ) Urban-Rural Population and Land Area Estimates, Version 2
+		Attribute:  
+			Attribute_Label:  lecz-urban-rural-population-land-area-estimates-v2_urban-rural-zones-10m
+			Attribute_Definition:  Urban-Rural Population and Land Area Estimates, v2 (1990, 2000, 2010, 2100) displays estimates of national-level aggregations of territorial extent and population size in the 10 meter low elevation zones. See more information at http://dx.doi.org/10.7927/H4MW2F2J.
+Distribution_Information:  
+	Distributor:  
+		Contact_Information:  
+			Contact_Organization_Primary:  
+				Contact_Organization:  NASA Socioeconomic Data and Applications Center (SEDAC)
+			Contact_Address:  
+				Address_Type:  mailing and physical address
+				Address:  CIESIN, Columbia University, 61 Route 9W, P.O. Box 1000
+				City:  Palisades
+				State_or_Province:  NY
+				Postal_Code:  10964
+				Country:  USA
+			Contact_Voice_Telephone:  +1 845-365-8920
+			Contact_Facsimile_Telephone:  +1 845-365-8922
+			Contact_Electronic_Mail_Address:  ciesin.info@ciesin.columbia.edu
+	Resource_Description:  CIESIN_SEDAC_LECZ_URPLAEV2
+	Distribution_Liability:  CIESIN follows procedures designed to ensure that data disseminated by CIESIN are of reasonable quality. If, despite these procedures, users encounter apparent errors or misstatements in the data, they should contact SEDAC User Services at +1 845-365-8920 or via email at ciesin.info@ciesin.columbia.edu. Neither CIESIN nor NASA verifies or guarantees the accuracy, reliability, or completeness of any data provided. CIESIN provides this data without warranty of any kind whatsoever, either expressed or implied. CIESIN shall not be liable for incidental, consequential, or special damages arising out of the use of any data provided by CIESIN.
+	Standard_Order_Process:  
+		Ordering_Instructions:  The data in Microsoft Excel (XLS) and Comma Delimited Text (CSV) formats, maps in Portable Document (PDF) and Portable Network Graphics (PNG) formats, and web map services are available from the NASA Socioeconomic Data and Applications Center (SEDAC).
+	Standard_Order_Process:  
+		Digital_Form:  
+			Digital_Transfer_Information:  
+				Format_Name:  XLS, CSV
+				File_Decompression_Technique:  unzip
+			Digital_Transfer_Option:  
+				Online_Option:  
+					Computer_Contact_Information:  
+						Network_Address:  
+							Network_Resource_Name:  http://sedac.ciesin.columbia.edu/data/set/lecz-urban-rural-population-land-area-estimates-v2/data-download
+					Access_Instructions:  Data accessible via the data set landing page.
+		Digital_Form:  
+			Digital_Transfer_Information:  
+				Format_Name:  PDF, PNG
+			Digital_Transfer_Option:  
+				Online_Option:  
+					Computer_Contact_Information:  
+						Network_Address:  
+							Network_Resource_Name:  http://sedac.ciesin.columbia.edu/data/set/lecz-urban-rural-population-land-area-estimates-v2/maps
+					Access_Instructions:  Maps accessible via the data set landing page.
+		Digital_Form:  
+			Digital_Transfer_Information:  
+				Format_Name:  WMS
+			Digital_Transfer_Option:  
+				Online_Option:  
+					Computer_Contact_Information:  
+						Network_Address:  
+							Network_Resource_Name:  http://sedac.ciesin.columbia.edu/data/set/lecz-urban-rural-population-land-area-estimates-v2/maps/services
+					Access_Instructions:  Web Map Services accessible via the data set landing page.
+	Available_Time_Period:  
+		Time_Period_Information:  
+			Range_of_Dates/Times:  
+				Beginning_Date:  2013
+				Ending_Date:  Present
+Metadata_Reference_Information:  
+	Metadata_Date:  20121005
+	Metadata_Review_Date:  20151112
+	Metadata_Future_Review_Date:  20161112
+	Metadata_Contact:  
+		Contact_Information:  
+			Contact_Organization_Primary:  
+				Contact_Organization:  Center for International Earth Science Information Network (CIESIN) Metadata Administration
+			Contact_Address:  
+				Address_Type:  mailing and physical address
+				Address:  CIESIN, Columbia University, 61 Route 9W, P.O. Box 1000
+				City:  Palisades
+				State_or_Province:  NY
+				Postal_Code:  10964
+				Country:  USA
+			Contact_Voice_Telephone:  +1 845-365-8988
+			Contact_Facsimile_Telephone:  +1 845-365-8922
+			Contact_Electronic_Mail_Address:  metadata@ciesin.columbia.edu
+	Metadata_Standard_Name:  FGDC Content Standards for Digital Geospatial Metadata
+	Metadata_Standard_Version:  FGDC-STD-001-1998
